@@ -1,2 +1,2 @@
 # cvpr-fall21
-Assignments and Project repo for computer vision and image recognition
+Assignments and Project repo for computer vision and pattern recognition
